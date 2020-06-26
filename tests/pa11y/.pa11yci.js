@@ -18,6 +18,6 @@ module.exports = {
   // bare minimum, your config file needs urls to test.
   urls: [
     'http://pa11y.org/',
-    'http://google.com/',
+    'http://google.co.in/',
   ],
 };
