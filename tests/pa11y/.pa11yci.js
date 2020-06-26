@@ -13,11 +13,11 @@ module.exports = {
     includeNotices: true,
     concurrency: 2,
     timeout: 100000,
-    wait: 2000,
+    wait: 2000
   },
   // bare minimum, your config file needs urls to test.
   urls: [
     'http://pa11y.org/',
-    'http://google.co.in/',
-  ],
+    'http://google.co.in/'
+  ]
 };
